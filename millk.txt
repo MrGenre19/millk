@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 print("colla")
 print("millk")
+зкште
+=======
+>>>>>>> parent of 6205ed3 (coocco2)
